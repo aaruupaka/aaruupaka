@@ -10,20 +10,20 @@ CakePHP / MariaDB を中心に勉強・開発中です。
 
 <!-- ▼GitHub Readme Stats : 総合ステータスカード
      Publicリポジトリのみを対象に、年間コミット数・スター数・フォーク数などを表示します -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaruupaka&show_icons=true&v=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaruupaka&show_icons=true&v=13)
 
 <!-- ▼Top Languages : 言語構成比
      公開リポジトリ内のコード量を言語別に集計して表示します
      → ファイルの拡張子を元に集計（行数ベース） -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaruupaka&layout=compact&v=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaruupaka&layout=compact&v=13)
 
 <!-- ▼GitHub Streak Stats : 連続コミット日数
      連続してコミットした日数（現在のstreakと最長streak）を表示します -->
-![GitHub Streak](https://streak-stats.demolab.com?user=aaruupaka&v=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=aaruupaka&v=13)
 
 <!-- ▼GitHub Profile Trophy : 貢献実績トロフィー
      フォロワー数・スター数・コミット数などをトロフィー風に可視化します -->
-![trophy](https://github-profile-trophy.vercel.app/?username=aaruupaka&theme=gruvbox&v=12)
+![trophy](https://github-profile-trophy.vercel.app/?username=aaruupaka&theme=gruvbox&v=13)
 
 ---
 
