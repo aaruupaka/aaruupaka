@@ -12,7 +12,7 @@
      Publicリポジトリのみを対象に、年間コミット数・スター数・フォーク数などを表示します -->
 <!-- GitHub Readme Stats は外部サービス停止中のため一時的に非表示 -->
 <!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaruupaka&show_icons=true&V=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaruupaka&show_icons=true&V=21)
 -->
 
 <!-- ▼Top Languages : 言語構成比
@@ -20,16 +20,16 @@
      → ファイルの拡張子を元に集計（行数ベース） -->
 <!-- GitHub Readme Stats は外部サービス停止中のため一時的に非表示 -->
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaruupaka&layout=compact&V=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaruupaka&layout=compact&V=21)
 -->
 
 <!-- ▼GitHub Streak Stats : 連続コミット日数
      連続してコミットした日数（現在のstreakと最長streak）を表示します -->
-![GitHub Streak](https://streak-stats.demolab.com?user=aaruupaka&V=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=aaruupaka&V=21)
 
 <!-- ▼GitHub Profile Trophy : 貢献実績トロフィー
      フォロワー数・スター数・コミット数などをトロフィー風に可視化します -->
-![trophy](https://github-profile-trophy.vercel.app/?username=aaruupaka&theme=gruvbox&V=20)
+![trophy](https://github-profile-trophy.vercel.app/?username=aaruupaka&theme=gruvbox&V=21)
 
 ---
 
