@@ -11,17 +11,13 @@
 <!-- ▼GitHub Readme Stats : 総合ステータスカード
      Publicリポジトリのみを対象に、年間コミット数・スター数・フォーク数などを表示します -->
 <!-- GitHub Readme Stats は外部サービス停止中のため一時的に非表示 -->
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaruupaka&show_icons=true&v=25)
--->
 
 <!-- ▼Top Languages : 言語構成比
      公開リポジトリ内のコード量を言語別に集計して表示します
      → ファイルの拡張子を元に集計（行数ベース） -->
 <!-- GitHub Readme Stats は外部サービス停止中のため一時的に非表示 -->
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaruupaka&layout=compact&v=25)
--->
 
 <!-- ▼GitHub Streak Stats : 連続コミット日数
      連続してコミットした日数（現在のstreakと最長streak）を表示します -->
