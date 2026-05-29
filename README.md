@@ -27,7 +27,9 @@
 
 <!-- ▼GitHub Profile Trophy : 貢献実績トロフィー
      フォロワー数・スター数・コミット数などをトロフィー風に可視化します -->
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=aaruupaka&theme=gruvbox&v=25)
+-->
 
 ---
 
